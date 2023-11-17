@@ -1,0 +1,15 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/andreigeorgiancraciun/Spring-Microservices-in-Action-Config-Server
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/andreigeorgiancraciun/Spring-Microservices-in-Action-Eureka-Server
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/andreigeorgiancraciun/Spring-Microservices-in-Action-Gateway-Server
+[submodule "organization-service"]
+	path = organization-service
+	url = https://github.com/andreigeorgiancraciun/Spring-Microservices-in-Action-Organization-Service
+[submodule "licensing-service"]
+	path = licensing-service
+	url = https://github.com/andreigeorgiancraciun/Spring-Microservices-in-Action-Licencing-Service
